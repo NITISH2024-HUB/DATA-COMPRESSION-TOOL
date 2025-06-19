@@ -25,4 +25,5 @@ Input:a3b3c4d2
 Compressed:a3b3c4d2
 Decompressed:aaabbbccccdd
 
-
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/99a19451-8949-4561-b769-4d78eb38e403)
