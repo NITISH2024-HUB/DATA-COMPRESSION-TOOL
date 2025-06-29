@@ -3,7 +3,7 @@ NAME: NITISH KUMAR
 INTERN ID: CT04DF397 
 DOMAIN: C LANGUAGE
 DURATION: 4 WEEKS 
-MENTOR: NEELA SANTOSH
+MENTOR: NEELA SANTHOSH
 
 #DESCRIPTION
 This is a simple C language project that implements a basic data compression and decompression tool using the Run-Length Encoding (RLE) algorithm.
